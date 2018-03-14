@@ -1,6 +1,6 @@
 # bot__wan's 2018 NCAA bracket 
 ![@bot__wan's bracket](Capture.PNG)
-Me and Crystal trained an ensemble method on all of the 2018 season, across all teams, to predict winners of the NCAA Men's Basketball Tournament this year. We streamed this live and you can view the broadcast on our [Twitch channel](https://www.twitch.tv/videos/238511605)  
+Me and Crystal trained an ensemble method on all of the 2018 season, across all teams, to predict winners of the NCAA Men's Basketball Tournament this year. We streamed this live and you can view the broadcast on our [Twitch channel (**video here**)](https://www.twitch.tv/videos/238511605)  
 ## A few crappy things in the data  
 So the datasets are split -- one is a full one but has errors, and the other is the supplement. Didn't have too much time in-stream to go back and merge these two sets, but the notebook will do that for you in the top cells.  
 
@@ -17,6 +17,6 @@ Also, we chose a handful of features that predicted outcome, but you can see tha
 We are actually donating all revenue from this stream to [DonorsChoose.org](donorschoose.org), on behalf of @bot__wan (aka my stream, me, and Crystal) and Neuroscience Twitter (with special shout outs to Dr. Bethann McLaughlin at Vanderbilt who helped put this all together). We are participating in a crowdfunding event called [#DarwinsBalls](https://twitter.com/hashtag/darwinsballs) where we pay a $10 (minimum) donation to a [DonorsChoose](donorschoose.org) classroom in order to enter the bracket competition. With the donations from this stream, we'll be putting that towards a DonorsChoose project (we'll let you know which one in stream) and me and Crystal will both also be contributing to other projects. 
 
 ## Shoutouts  
-Follow me and Crystal's bot, [@bot__wan](twitter.com/bot__wan) on twitter
-Follow [Crystal](twitter.com/boozybrain) and [me](twitter.com/nickwan) on twitter 
-Follow me on [Twitch -- streams every Tuesday and Thursday](twitch.tv/realnickwan)
+Follow me and Crystal's bot, [@bot__wan](twitter.com/bot__wan) on twitter  
+Follow [Crystal](twitter.com/boozybrain) and [me](twitter.com/nickwan) on twitter   
+Follow me on [Twitch -- streams every Tuesday and Thursday](twitch.tv/realnickwan)  
